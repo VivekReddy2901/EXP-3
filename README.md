@@ -50,25 +50,37 @@ ALGORITHM :-
 1) Student Marks Tuple
 
 Step 1: Start
+
 Step 2: Create a tuple containing student marks
+
 Step 3: Store marks in a tuple variable
+
 Step 4: Display the tuple
+
 Step 5: Stop
 
 2) Student Details Tuple
 
 Step 1: Start
+
 Step 2: Create a tuple containing subject name, marks, and grade
+
 Step 3: Store the details in a tuple variable
+
 Step 4: Display the tuple
+
 Step 5: Stop
 
 3) Attendance Count Using Tuple
 
 Step 1: Start
+
 Step 2: Create a tuple containing attendance values (P and A)
+
 Step 3: Use the count() function to count total present days
+
 Step 4: Display the total number of present days
+
 Step 5: Stop
 
 CONCLUSION :-
